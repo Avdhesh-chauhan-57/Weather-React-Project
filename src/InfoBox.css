@@ -1,0 +1,39 @@
+/* InfoBox */
+
+.Infobox {
+    width: 360px;
+    margin: 30px auto;
+    text-align: center;
+
+}
+
+.Infobox h1 {
+    font-size: 24px;
+    margin-bottom: 18px;
+    color: #333;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+}
+
+.card-container .MuiCard-root {
+    width: 320px;
+    border-radius: 14px;
+    box-shadow: 0 5px 18px rgba(0, 0, 0, 0.15);
+}
+
+.card-container .MuiCardMedia-root {
+    height: 150px;
+}
+
+.card-container p {
+    margin: 8px 0;
+    font-size: 15px;
+}
+
+.title {
+    font-size: 50px;
+    color: rgb(0, 0, 0)
+}
